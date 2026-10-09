@@ -1,6 +1,6 @@
 #  JavaScript Quiz App
 
-Project 1 of my 30  JavaScript Projects Challenge.
+Project 3 of my 30  JavaScript Projects Challenge.
 
 An interactive quiz application built using Vanilla JavaScript that tests users with multiple-choice questions, tracks scores, and displays results.
 
