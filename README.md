@@ -1,6 +1,6 @@
 #  JavaScript Quiz App
 
-Day 3 of my 30 Days JavaScript Challenge.
+Project 1 of my 30  JavaScript Projects Challenge.
 
 An interactive quiz application built using Vanilla JavaScript that tests users with multiple-choice questions, tracks scores, and displays results.
 
@@ -54,7 +54,7 @@ Building restartable application logic
 https://saurabh54e.github.io/Js-Day03-Quiz-App/
 
 ## GitHub Repository
-https://github.com/saurabh54e/Js-Day03-Quiz-App
+https://github.com/saurabh54e/Js-Project03-Quiz-App
 
 
 ## Author 
