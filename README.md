@@ -67,13 +67,13 @@ The UI updates dynamically based on state changes.
 
 ## Live Demo
 
-[View Live Demo](https://saurabh54e.github.io/Js-Project03-Quiz-App/)
+(https://saurabh54e.github.io/Js-Project03-Quiz-App/)
 
 ---
 
 ## GitHub Repository
 
-[View GitHub Repository](https://github.com/saurabh54e/Js-Project03-Quiz-App)
+(https://github.com/saurabh54e/Js-Project03-Quiz-App)
 
 ---
 
