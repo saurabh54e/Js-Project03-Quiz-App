@@ -1,26 +1,30 @@
-#  JavaScript Quiz App
+# JavaScript Quiz App
 
-Project 3 of my 30  JavaScript Projects Challenge.
+Project 3 of my 30 JavaScript Projects Challenge.
 
 An interactive quiz application built using Vanilla JavaScript that tests users with multiple-choice questions, tracks scores, and displays results.
 
+---
+
 ## Features
 
-- 📋 Multiple-choice questions
-- 👉 Next question navigation
-- 🎯 Score tracking
-- ✅ Highlight correct and incorrect answers
-- 🏁 Final result screen
-- 🔄 Restart quiz functionality
-- 📱 Fully responsive design
+- Multiple-choice questions
+- Next question navigation
+- Score tracking
+- Highlight correct and incorrect answers
+- Final result screen
+- Restart quiz functionality
+- Fully responsive design
 
+---
 
 ## Architecture Approach
 
-The application uses a **state-driven approach.
-Quiz data is stored as an array of objects:
+The application uses a state-driven approach where quiz data is stored as an array of objects.
 
-```js
+Example quiz data:
+
+```javascript
 [
   {
     question: "What is JavaScript?",
@@ -30,38 +34,61 @@ Quiz data is stored as an array of objects:
 ]
 ```
 
-## Application state includes:
+### Application State
 
-Current question index
-Selected answer
-Score
+The application state includes:
+
+- Current question index
+- Selected answer
+- Score
+
 The UI updates dynamically based on state changes.
 
+---
+
 ## Tech Stack
-HTML5
-CSS3
-Vanilla JavaScript
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+---
 
 ## What I Learned
-Managing multi-step application state
-Rendering dynamic content from data
-Handling user interaction flow
-Score calculation logic
-Conditional UI rendering
-Building restartable application logic
+
+- Managing multi-step application state
+- Rendering dynamic content from data
+- Handling user interaction flow
+- Implementing score calculation logic
+- Conditional UI rendering
+- Building restartable application logic
+
+---
 
 ## Live Demo
-https://saurabh54e.github.io/Js-Project03-Quiz-App/
+
+[View Live Demo](https://saurabh54e.github.io/Js-Project03-Quiz-App/)
+
+---
 
 ## GitHub Repository
-https://github.com/saurabh54e/Js-Project03-Quiz-App
 
+[View GitHub Repository](https://github.com/saurabh54e/Js-Project03-Quiz-App)
 
-## Author 
-Saurabh Singh.
-B.Tech CSE (AI & ML) — Web Development | UI/UX | Robotics
+---
 
-⭐ If you like this project, consider giving it a star!
+## Author
+
+Saurabh Singh
+
+B.Tech CSE — Web Development | UI/UX | Robotics
+
+---
 
 ## Challenge Goal
-Building 30 JavaScript projects in 30 days to strengthen frontend fundamentals, improve architecture thinking, and build consistently in public.
+
+Building 30 JavaScript projects in 30 days to strengthen frontend fundamentals, improve architectural thinking, and build consistently in public.
+
+---
+
+If you like this project, consider giving it a star! ⭐
